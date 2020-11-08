@@ -1,5 +1,5 @@
 /**
- * @author: Adrian Popa, adrian.popa.box@gmail.com, adrian.popa@aepeak.com
+ * @author: Adrian Popa, adrian.popa.box@gmail.com, adrian.popa@aepeak.com 
  * 
  * Coursera, Algorithms, Part II, Princeton
  * Assignment: Boggle, Grade 89/100, https://coursera.cs.princeton.edu/algs4/assignments/boggle/specification.php
